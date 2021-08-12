@@ -5,15 +5,15 @@ view the live site here: https://Iamronaldosunmu.github.io/moshify
 ## Table of contents
 
 - [Moshify](#Moshify)
-  - [Table of contents](#table-of-contents)
-  - [Overview](#overview)
-    - [Screenshot](#screenshot)
-    - [Links](#links)
-  - [My process](#my-process)
-    - [Built with](#built-with)
-    - [Continued development](#continued-development)
-    - [Useful resources](#useful-resources)
-  - [Author](#author)
+- [Table of contents](#table-of-contents)
+- [Overview](#overview)
+- [Screenshot](#screenshot)
+- [Links](#links)
+- [My process](#my-process)
+- [Built with](#built-with)
+- [Continued development](#continued-development)
+- [Useful resources](#useful-resources)
+- [Author](#author)
 
 
 ## Overview
