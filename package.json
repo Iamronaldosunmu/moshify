@@ -1,0 +1,14 @@
+{
+  "name": "moshify",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "homepage":"https://Iamronaldosunmu.github.io/moshify",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {},
+  "description": ""
+}
